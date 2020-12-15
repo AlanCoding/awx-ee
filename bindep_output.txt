@@ -1,5 +1,5 @@
+gcc
 libxml2-devel
-python3-devel
 python3-jmespath
 python3-netaddr
 python3-passlib
